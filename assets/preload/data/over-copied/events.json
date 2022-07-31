@@ -1,0 +1,29 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": null,
+		"player1": "bf",
+		"player2": "nando",
+		"player3": null,
+		"events": [
+			[
+				66281.25,
+				[
+					[
+						"Play Animation",
+						"holdup",
+						"nando"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Over-Copied"
+	}
+}

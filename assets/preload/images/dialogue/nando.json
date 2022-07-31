@@ -1,0 +1,51 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		170,
+		40
+	],
+	"no_antialiasing": false,
+	"scale": 1.4,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-11
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "nando normal",
+			"idle_name": "nando normal"
+		},
+		{
+			"loop_offsets": [
+				-49,
+				-27
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				-49,
+				-27
+			],
+			"loop_name": "nando excited",
+			"idle_name": "nando excited"
+		},
+		{
+			"idle_offsets": [
+				-7,
+				-27
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-7,
+				-27
+			],
+			"idle_name": "nando confused",
+			"loop_name": "nando confused"
+		}
+	],
+	"image": "Nando_Dialouge 2"
+}

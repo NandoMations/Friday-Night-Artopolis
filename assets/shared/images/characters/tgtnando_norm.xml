@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tgtnando_norm.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TGT Nando DOWN0000" x="0" y="0" width="205" height="454"/>
+	<SubTexture name="TGT Nando DOWN0001" x="0" y="0" width="205" height="454"/>
+	<SubTexture name="TGT Nando DOWN0002" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando DOWN0003" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando DOWN0004" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando DOWN0005" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando DOWN0006" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando DOWN0007" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando DOWN0008" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando DOWN0009" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando DOWN0010" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando DOWN0011" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando DOWN0012" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando DOWN0013" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando DOWN0014" x="205" y="0" width="202" height="450" frameX="0" frameY="-4" frameWidth="205" frameHeight="454"/>
+	<SubTexture name="TGT Nando IDLE0000" x="407" y="0" width="277" height="465"/>
+	<SubTexture name="TGT Nando IDLE0001" x="407" y="0" width="277" height="465"/>
+	<SubTexture name="TGT Nando IDLE0002" x="684" y="0" width="271" height="455" frameX="-4" frameY="-10" frameWidth="277" frameHeight="465"/>
+	<SubTexture name="TGT Nando IDLE0003" x="684" y="0" width="271" height="455" frameX="-4" frameY="-10" frameWidth="277" frameHeight="465"/>
+	<SubTexture name="TGT Nando IDLE0004" x="955" y="0" width="271" height="454" frameX="-4" frameY="-11" frameWidth="277" frameHeight="465"/>
+	<SubTexture name="TGT Nando IDLE0005" x="955" y="0" width="271" height="454" frameX="-4" frameY="-11" frameWidth="277" frameHeight="465"/>
+	<SubTexture name="TGT Nando IDLE0006" x="1226" y="0" width="271" height="455" frameX="-4" frameY="-10" frameWidth="277" frameHeight="465"/>
+	<SubTexture name="TGT Nando IDLE0007" x="1226" y="0" width="271" height="455" frameX="-4" frameY="-10" frameWidth="277" frameHeight="465"/>
+	<SubTexture name="TGT Nando IDLE0008" x="1497" y="0" width="277" height="465"/>
+	<SubTexture name="TGT Nando IDLE0009" x="1497" y="0" width="277" height="465"/>
+	<SubTexture name="TGT Nando IDLE0010" x="1497" y="0" width="277" height="465"/>
+	<SubTexture name="TGT Nando IDLE0011" x="1497" y="0" width="277" height="465"/>
+	<SubTexture name="TGT Nando IDLE0012" x="1497" y="0" width="277" height="465"/>
+	<SubTexture name="TGT Nando IDLE0013" x="1497" y="0" width="277" height="465"/>
+	<SubTexture name="TGT Nando IDLE0014" x="1497" y="0" width="277" height="465"/>
+	<SubTexture name="TGT Nando LEFT0000" x="1774" y="0" width="210" height="463" frameX="-3" frameY="0" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0001" x="1774" y="0" width="210" height="463" frameX="-3" frameY="0" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0002" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0003" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0004" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0005" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0006" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0007" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0008" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0009" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0010" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0011" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0012" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0013" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando LEFT0014" x="0" y="465" width="213" height="462" frameX="0" frameY="-1" frameWidth="213" frameHeight="463"/>
+	<SubTexture name="TGT Nando RIGHT0000" x="213" y="465" width="196" height="464" frameX="0" frameY="-1" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0001" x="213" y="465" width="196" height="464" frameX="0" frameY="-1" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0002" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0003" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0004" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0005" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0006" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0007" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0008" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0009" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0010" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0011" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0012" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0013" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando RIGHT0014" x="409" y="465" width="200" height="464" frameX="0" frameY="0" frameWidth="200" frameHeight="465"/>
+	<SubTexture name="TGT Nando UP0000" x="609" y="465" width="215" height="467" frameX="-1" frameY="0" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0001" x="609" y="465" width="215" height="467" frameX="-1" frameY="0" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0002" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0003" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0004" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0005" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0006" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0007" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0008" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0009" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0010" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0011" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0012" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0013" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+	<SubTexture name="TGT Nando UP0014" x="824" y="465" width="216" height="464" frameX="0" frameY="-2" frameWidth="216" frameHeight="467"/>
+</TextureAtlas>

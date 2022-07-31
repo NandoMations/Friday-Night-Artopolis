@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HoloTESTTWO.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Holo Bop Buh 10000" x="0" y="0" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10001" x="1533" y="0" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10002" x="3066" y="0" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10003" x="4599" y="0" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10004" x="6132" y="0" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10005" x="0" y="784" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10006" x="1533" y="784" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10007" x="3066" y="784" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10008" x="3066" y="784" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10009" x="3066" y="784" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10010" x="4599" y="784" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10011" x="4599" y="784" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10012" x="4599" y="784" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 10013" x="6132" y="784" width="1533" height="784"/>
+	<SubTexture name="Holo Bop Buh 20000" x="0" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20001" x="0" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20002" x="822" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20003" x="1644" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20004" x="2466" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20005" x="3288" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20006" x="4110" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20007" x="4932" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20008" x="4932" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20009" x="4932" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20010" x="5754" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20011" x="5754" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20012" x="5754" y="1568" width="822" height="784"/>
+	<SubTexture name="Holo Bop Buh 20013" x="6576" y="1568" width="822" height="784"/>
+</TextureAtlas>

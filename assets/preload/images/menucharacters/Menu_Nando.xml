@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_nando.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="IDLE Nando Animation Pose0000" x="0" y="0" width="427" height="1014" frameX="0" frameY="0" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0001" x="0" y="0" width="427" height="1014" frameX="0" frameY="0" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0002" x="427" y="0" width="417" height="1008" frameX="-12" frameY="-6" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0003" x="427" y="0" width="417" height="1008" frameX="-12" frameY="-6" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0004" x="844" y="0" width="418" height="1005" frameX="-15" frameY="-9" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0005" x="844" y="0" width="418" height="1005" frameX="-15" frameY="-9" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0006" x="1262" y="0" width="426" height="1010" frameX="-7" frameY="-4" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0007" x="1262" y="0" width="426" height="1010" frameX="-7" frameY="-4" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0008" x="0" y="1014" width="431" height="1013" frameX="-2" frameY="-1" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0009" x="0" y="1014" width="431" height="1013" frameX="-2" frameY="-1" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0010" x="431" y="1014" width="431" height="1013" frameX="-2" frameY="-1" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0011" x="431" y="1014" width="431" height="1013" frameX="-2" frameY="-1" frameWidth="433" frameHeight="1014"/>
+</TextureAtlas>

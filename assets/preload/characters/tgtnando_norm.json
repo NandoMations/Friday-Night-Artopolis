@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "TGT Nando IDLE"
+		},
+		{
+			"offsets": [
+				-166,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "TGT Nando RIGHT"
+		},
+		{
+			"offsets": [
+				-93,
+				-22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "TGT Nando DOWN"
+		},
+		{
+			"offsets": [
+				-110,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "TGT Nando UP"
+		},
+		{
+			"offsets": [
+				-80,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "TGT Nando LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tgtnando_norm",
+	"position": [
+		0,
+		140
+	],
+	"healthicon": "novill",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		226,
+		139
+	],
+	"camera_position": [
+		290,
+		-130
+	],
+	"sing_duration": 6.1,
+	"scale": 1.55
+}

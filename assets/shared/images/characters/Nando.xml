@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Nando.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0000" x="0" y="0" width="426" height="1013" frameX="-27" frameY="-6" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0001" x="0" y="0" width="426" height="1013" frameX="-27" frameY="-6" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0002" x="426" y="0" width="440" height="1017" frameX="-13" frameY="-2" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0003" x="426" y="0" width="440" height="1017" frameX="-13" frameY="-2" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0004" x="866" y="0" width="446" height="1019" frameX="-7" frameY="0" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0005" x="866" y="0" width="446" height="1019" frameX="-7" frameY="0" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0006" x="1312" y="0" width="407" height="1000" frameX="-46" frameY="-19" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0007" x="1312" y="0" width="407" height="1000" frameX="-46" frameY="-19" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0008" x="1719" y="0" width="404" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0009" x="1719" y="0" width="404" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0010" x="2123" y="0" width="404" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0011" x="2123" y="0" width="404" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0012" x="2527" y="0" width="404" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0013" x="2527" y="0" width="404" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0014" x="2931" y="0" width="404" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0015" x="2931" y="0" width="404" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0016" x="3335" y="0" width="404" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0017" x="3335" y="0" width="404" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0018" x="3739" y="0" width="404" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0019" x="3739" y="0" width="404" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0020" x="4143" y="0" width="440" height="1017" frameX="-13" frameY="-2" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0021" x="4143" y="0" width="440" height="1017" frameX="-13" frameY="-2" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0022" x="4583" y="0" width="446" height="1019" frameX="-7" frameY="0" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0023" x="4583" y="0" width="446" height="1019" frameX="-7" frameY="0" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0024" x="5029" y="0" width="407" height="1000" frameX="-46" frameY="-19" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0025" x="5029" y="0" width="407" height="1000" frameX="-46" frameY="-19" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0026" x="5436" y="0" width="405" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0027" x="5436" y="0" width="405" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0028" x="5841" y="0" width="405" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0029" x="5841" y="0" width="405" height="996" frameX="-49" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0030" x="6246" y="0" width="406" height="996" frameX="-48" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0031" x="6246" y="0" width="406" height="996" frameX="-48" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0032" x="6652" y="0" width="409" height="996" frameX="-45" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0033" x="6652" y="0" width="409" height="996" frameX="-45" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0034" x="7061" y="0" width="413" height="992" frameX="-41" frameY="-27" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0035" x="7061" y="0" width="413" height="992" frameX="-41" frameY="-27" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0036" x="7474" y="0" width="435" height="996" frameX="-19" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0037" x="7474" y="0" width="435" height="996" frameX="-19" frameY="-23" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0038" x="0" y="1019" width="453" height="981" frameX="0" frameY="-37" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0039" x="0" y="1019" width="453" height="981" frameX="0" frameY="-37" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0040" x="453" y="1019" width="414" height="977" frameX="-39" frameY="-42" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0041" x="453" y="1019" width="414" height="977" frameX="-39" frameY="-42" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0042" x="867" y="1019" width="421" height="988" frameX="-32" frameY="-32" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0043" x="867" y="1019" width="421" height="988" frameX="-32" frameY="-32" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0044" x="1288" y="1019" width="418" height="981" frameX="-35" frameY="-37" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0045" x="1288" y="1019" width="418" height="981" frameX="-35" frameY="-37" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0046" x="1706" y="1019" width="415" height="978" frameX="-38" frameY="-41" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0047" x="1706" y="1019" width="415" height="978" frameX="-38" frameY="-41" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0048" x="2121" y="1019" width="426" height="997" frameX="-27" frameY="-22" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0049" x="2121" y="1019" width="426" height="997" frameX="-27" frameY="-22" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0050" x="2547" y="1019" width="426" height="999" frameX="-27" frameY="-20" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0051" x="2547" y="1019" width="426" height="999" frameX="-27" frameY="-20" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0052" x="2973" y="1019" width="424" height="994" frameX="-29" frameY="-25" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0053" x="2973" y="1019" width="424" height="994" frameX="-29" frameY="-25" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0054" x="3397" y="1019" width="424" height="993" frameX="-29" frameY="-26" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0055" x="3397" y="1019" width="424" height="993" frameX="-29" frameY="-26" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0056" x="3821" y="1019" width="424" height="993" frameX="-29" frameY="-26" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0057" x="3821" y="1019" width="424" height="993" frameX="-29" frameY="-26" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0058" x="4245" y="1019" width="424" height="993" frameX="-29" frameY="-26" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0059" x="4245" y="1019" width="424" height="993" frameX="-29" frameY="-26" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0060" x="4669" y="1019" width="424" height="993" frameX="-29" frameY="-26" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0061" x="4669" y="1019" width="424" height="993" frameX="-29" frameY="-26" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0062" x="4669" y="1019" width="424" height="993" frameX="-29" frameY="-26" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0063" x="4669" y="1019" width="424" height="993" frameX="-29" frameY="-26" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0064" x="4669" y="1019" width="424" height="993" frameX="-29" frameY="-26" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="&quot;Hold Up&quot; Nando Animation0065" x="4669" y="1019" width="424" height="993" frameX="-29" frameY="-26" frameWidth="454" frameHeight="1020"/>
+	<SubTexture name="DOWN Nando Animation Pose0000" x="5093" y="1019" width="444" height="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0001" x="5093" y="1019" width="444" height="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0002" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0003" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0004" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0005" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0006" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0007" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0008" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0009" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0010" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0011" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0012" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0013" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="DOWN Nando Animation Pose0014" x="5537" y="1019" width="444" height="939" frameX="0" frameY="-6" frameWidth="444" frameHeight="945"/>
+	<SubTexture name="IDLE Nando Animation Pose0000" x="5981" y="1019" width="427" height="1014" frameX="0" frameY="0" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0001" x="5981" y="1019" width="427" height="1014" frameX="0" frameY="0" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0002" x="6408" y="1019" width="417" height="1008" frameX="-12" frameY="-6" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0003" x="6408" y="1019" width="417" height="1008" frameX="-12" frameY="-6" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0004" x="6825" y="1019" width="418" height="1005" frameX="-15" frameY="-9" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0005" x="6825" y="1019" width="418" height="1005" frameX="-15" frameY="-9" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0006" x="7243" y="1019" width="426" height="1010" frameX="-7" frameY="-4" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0007" x="7243" y="1019" width="426" height="1010" frameX="-7" frameY="-4" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0008" x="7669" y="1019" width="431" height="1013" frameX="-2" frameY="-1" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0009" x="7669" y="1019" width="431" height="1013" frameX="-2" frameY="-1" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0010" x="0" y="2033" width="431" height="1013" frameX="-2" frameY="-1" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="IDLE Nando Animation Pose0011" x="0" y="2033" width="431" height="1013" frameX="-2" frameY="-1" frameWidth="433" frameHeight="1014"/>
+	<SubTexture name="LEFT Nando Animation Pose0000" x="431" y="2033" width="760" height="989" frameX="-4" frameY="-1" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0001" x="431" y="2033" width="760" height="989" frameX="-4" frameY="-1" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0002" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0003" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0004" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0005" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0006" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0007" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0008" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0009" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0010" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0011" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0012" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0013" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="LEFT Nando Animation Pose0014" x="1191" y="2033" width="758" height="990" frameX="0" frameY="0" frameWidth="764" frameHeight="990"/>
+	<SubTexture name="RIGHT Nando Animation Pose0000" x="1949" y="2033" width="531" height="943" frameX="0" frameY="0" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0001" x="1949" y="2033" width="531" height="943" frameX="0" frameY="0" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0002" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0003" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0004" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0005" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0006" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0007" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0008" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0009" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0010" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0011" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0012" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0013" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="RIGHT Nando Animation Pose0014" x="2480" y="2033" width="536" height="937" frameX="-2" frameY="-6" frameWidth="538" frameHeight="943"/>
+	<SubTexture name="UP Nando Animation Pose0000" x="3016" y="2033" width="457" height="1034" frameX="0" frameY="-4" frameWidth="457" frameHeight="1039"/>
+	<SubTexture name="UP Nando Animation Pose0001" x="3016" y="2033" width="457" height="1034" frameX="0" frameY="-4" frameWidth="457" frameHeight="1039"/>
+	<SubTexture name="UP Nando Animation Pose0002" x="3473" y="2033" width="457" height="1039"/>
+	<SubTexture name="UP Nando Animation Pose0003" x="3473" y="2033" width="457" height="1039"/>
+	<SubTexture name="UP Nando Animation Pose0004" x="3473" y="2033" width="457" height="1039"/>
+	<SubTexture name="UP Nando Animation Pose0005" x="3473" y="2033" width="457" height="1039"/>
+	<SubTexture name="UP Nando Animation Pose0006" x="3473" y="2033" width="457" height="1039"/>
+	<SubTexture name="UP Nando Animation Pose0007" x="3473" y="2033" width="457" height="1039"/>
+	<SubTexture name="UP Nando Animation Pose0008" x="3473" y="2033" width="457" height="1039"/>
+	<SubTexture name="UP Nando Animation Pose0009" x="3473" y="2033" width="457" height="1039"/>
+	<SubTexture name="UP Nando Animation Pose0010" x="3473" y="2033" width="457" height="1039"/>
+	<SubTexture name="UP Nando Animation Pose0011" x="3473" y="2033" width="457" height="1039"/>
+	<SubTexture name="UP Nando Animation Pose0012" x="3473" y="2033" width="457" height="1039"/>
+	<SubTexture name="UP Nando Animation Pose0013" x="3473" y="2033" width="457" height="1039"/>
+	<SubTexture name="UP Nando Animation Pose0014" x="3473" y="2033" width="457" height="1039"/>
+</TextureAtlas>

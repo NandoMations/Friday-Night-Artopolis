@@ -1,0 +1,50 @@
+{
+	"storyName": "mashions week lmao",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "artopolis",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"nando",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Mashions",
+			"oldnando",
+			[
+				0,
+				255,
+				175
+			]
+		],
+		[
+			"Sketches",
+			"oldnando",
+			[
+				0,
+				255,
+				175
+			]
+		],
+		[
+			"Over-Copied",
+			"oldnando",
+			[
+				0,
+				255,
+				175
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
+}

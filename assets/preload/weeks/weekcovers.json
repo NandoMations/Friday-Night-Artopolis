@@ -1,0 +1,68 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Sage",
+			"sage",
+			[
+				155,
+				80,
+				80
+			]
+		],
+		[
+			"Context",
+			"context",
+			[
+				75,
+				193,
+				253
+			]
+		],
+		[
+			"No Tracers",
+			"novill",
+			[
+				106,
+				213,
+				215
+			]
+		],
+		[
+			"Chaos",
+			"chaos",
+			[
+				126,
+				155,
+				115
+			]
+		],
+		[
+			"Corrupted File",
+			"cornando",
+			[
+				126,
+				255,
+				175
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

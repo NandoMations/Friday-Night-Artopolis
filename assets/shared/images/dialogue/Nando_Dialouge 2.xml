@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="nando_dialouge 2.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nando confused0000" x="0" y="0" width="224" height="346" frameX="-13" frameY="0" frameWidth="237" frameHeight="346"/>
+	<SubTexture name="nando confused0001" x="0" y="0" width="224" height="346" frameX="-13" frameY="0" frameWidth="237" frameHeight="346"/>
+	<SubTexture name="nando confused0002" x="224" y="0" width="229" height="345" frameX="-2" frameY="0" frameWidth="237" frameHeight="346"/>
+	<SubTexture name="nando confused0003" x="224" y="0" width="229" height="345" frameX="-2" frameY="0" frameWidth="237" frameHeight="346"/>
+	<SubTexture name="nando confused0004" x="453" y="0" width="230" height="341" frameX="0" frameY="0" frameWidth="237" frameHeight="346"/>
+	<SubTexture name="nando confused0005" x="453" y="0" width="230" height="341" frameX="0" frameY="0" frameWidth="237" frameHeight="346"/>
+	<SubTexture name="nando excited0000" x="683" y="0" width="225" height="365" frameX="0" frameY="0" frameWidth="239" frameHeight="365"/>
+	<SubTexture name="nando excited0001" x="683" y="0" width="225" height="365" frameX="0" frameY="0" frameWidth="239" frameHeight="365"/>
+	<SubTexture name="nando excited0002" x="908" y="0" width="234" height="355" frameX="-3" frameY="-10" frameWidth="239" frameHeight="365"/>
+	<SubTexture name="nando excited0003" x="908" y="0" width="234" height="355" frameX="-3" frameY="-10" frameWidth="239" frameHeight="365"/>
+	<SubTexture name="nando excited0004" x="1142" y="0" width="234" height="352" frameX="-5" frameY="-13" frameWidth="239" frameHeight="365"/>
+	<SubTexture name="nando excited0005" x="1142" y="0" width="234" height="352" frameX="-5" frameY="-13" frameWidth="239" frameHeight="365"/>
+	<SubTexture name="nando normal0000" x="1376" y="0" width="214" height="359" frameX="0" frameY="0" frameWidth="223" frameHeight="362"/>
+	<SubTexture name="nando normal0001" x="1376" y="0" width="214" height="359" frameX="0" frameY="0" frameWidth="223" frameHeight="362"/>
+	<SubTexture name="nando normal0002" x="1590" y="0" width="215" height="360" frameX="-8" frameY="-2" frameWidth="223" frameHeight="362"/>
+	<SubTexture name="nando normal0003" x="1590" y="0" width="215" height="360" frameX="-8" frameY="-2" frameWidth="223" frameHeight="362"/>
+	<SubTexture name="nando normal0004" x="1805" y="0" width="216" height="358" frameX="-3" frameY="-4" frameWidth="223" frameHeight="362"/>
+	<SubTexture name="nando normal0005" x="1805" y="0" width="216" height="358" frameX="-3" frameY="-4" frameWidth="223" frameHeight="362"/>
+</TextureAtlas>
